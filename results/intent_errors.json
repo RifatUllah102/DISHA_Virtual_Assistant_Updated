@@ -1,0 +1,26 @@
+[
+  {
+    "text": "একাউন্টে ডিপোজিট হয়েছে কিন্তু আমার একাউন্টে টাকা এখনও হিট করেনি।",
+    "intent": "BankingQuery",
+    "intent_prediction": {
+      "name": "check_balance",
+      "confidence": 0.9581078290939331
+    }
+  },
+  {
+    "text": "একাউন্টে ডিপোজিট হয়েছে কিন্তু আমার একাউন্টে টাকা এখনও জমা হয়নি।",
+    "intent": "BankingQuery",
+    "intent_prediction": {
+      "name": "check_balance",
+      "confidence": 0.9796234965324402
+    }
+  },
+  {
+    "text": "একাউন্টে টাকা এখনও জমা হয়নি।",
+    "intent": "BankingQuery",
+    "intent_prediction": {
+      "name": "check_balance",
+      "confidence": 0.9926592707633972
+    }
+  }
+]
